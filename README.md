@@ -3,4 +3,6 @@
 - I have experience in HTML, CSS, JavaScript, Bootstrap, React and Python
 - I am currently learning software development
 
+- I use Arch btw.🐧
+
 
