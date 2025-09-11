@@ -6,6 +6,6 @@
 - I use Arch btw.🐧
 
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatihTheDev)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatihTheDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
