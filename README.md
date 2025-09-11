@@ -6,8 +6,7 @@
 - I use Arch btw.🐧
 
 
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
+
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatihTheDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![FatihNvim](https://socialify.git.ci/FatihTheDev/FatihNvim/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
-
-
