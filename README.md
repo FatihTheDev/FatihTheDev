@@ -5,5 +5,4 @@
 
 - I use Arch btw.🐧
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatihTheDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FatihTheDev&show_icons=true&theme=tokyonight)
